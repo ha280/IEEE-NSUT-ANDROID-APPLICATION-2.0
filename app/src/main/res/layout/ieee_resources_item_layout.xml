@@ -25,9 +25,9 @@
         <TextView
             android:id="@+id/resources_text_view"
             android:padding="16dp"
+            android:background="@color/backgroundColorr"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/backgroundColorr"
             android:textColor="@color/textColor"
             android:text="TextView"/>
 
